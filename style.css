@@ -1,0 +1,30 @@
+* {
+  font-family: sans-serif;
+}
+
+div{
+  text-align: center;
+  margin: 0 auto;
+  background-color: rgb(255, 170, 170);
+  width: 300px;
+  padding: 10px;
+  overflow: hidden;
+
+}
+ 
+div input{
+  width: 270px;
+  display: block;
+  margin: 8px;
+  padding: 5px;
+}
+
+div button{
+  font-size: 15px;
+  margin: 10px 0 0 0;
+  border: none;
+  background-color: rgb(255, 109, 109);
+  padding: 15px;
+  width: 200px;
+  cursor: pointer;
+}
